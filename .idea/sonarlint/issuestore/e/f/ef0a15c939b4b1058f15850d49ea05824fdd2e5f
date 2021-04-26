@@ -1,0 +1,8 @@
+
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ÇÏÒïûÿÿÿÿ8†¶èé/
+u
+java:S11713"YMove the contents of this initializer to a standard constructor or to field initializers.(µÛû8ƒùÔé/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¢§âèÿÿÿÿÿ8ÉÂª’/
+i	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÛû8ƒùÔé/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¯ã÷â8Ú£Ÿ’/
